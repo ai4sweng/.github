@@ -1,4 +1,4 @@
-# AI4SWEng
+<img src="logo.png" alt="AI4SWEng logo" width="400">
 
 ### AI Engineering Suite to support Agile Efficient Software Engineering
 
